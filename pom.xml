@@ -52,7 +52,9 @@
     <developer>
       <id>https://github.com/duncanj</id>
       <name>duncanj</name>
-    </developer>
+  
+<echo> This is the first project</echo>
+  </developer>
     <developer>
       <id>https://github.com/Iegorchenkov</id>
       <name>Iegorchenkov</name>
